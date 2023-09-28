@@ -1,2 +1,4 @@
 data
 models
+notebooks/.ipynb_checkpoints
+notebooks/wandb
